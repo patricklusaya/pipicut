@@ -1,0 +1,85 @@
+@import "tailwindcss";
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+
+@theme {
+  --font-sans: "Inter", "Segoe UI", ui-sans-serif, system-ui, sans-serif;
+  --color-bg: #141517;
+  --color-panel: #1b1c20;
+  --color-elevated: #232429;
+  --color-line: #31333a;
+  --color-text: #e8e9ec;
+  --color-muted: #8e919a;
+  --color-faint: #6d7078;
+  --color-accent: #6ea8fe;
+  --color-warn: #d7a15a;
+  --color-danger: #e06b6b;
+  --color-playhead: #f4f5f7;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  overflow: hidden;
+}
+
+button,
+input {
+  font-family: inherit;
+}
+
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+::selection {
+  background: #6ea8fe44;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #3a3d44;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+input[type="range"] {
+  accent-color: #6ea8fe;
+}
+
+@keyframes extension-blink {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.35;
+  }
+}
+
+.extension-blink {
+  animation: extension-blink 1.1s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .extension-blink {
+    animation: none;
+  }
+}
