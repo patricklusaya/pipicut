@@ -22,6 +22,7 @@ WHAT CHARACTER STYLE DO YOU WANT? REPLY WITH A NUMBER OR TYPE YOUR OWN.
 16. Paper cutout
 17. Cinematic
 18. Oil painting
+19. Circle caricature
 
 After they name a style, if they have not pasted a transcript yet, reply with only this line and nothing else:
 PASTE YOUR TRANSCRIPTED TIMESTAMPS AND PRESS ENTER
@@ -108,6 +109,8 @@ Style notes. Use only the note for the chosen style. Fold it into the paragraph 
 - The body, close and unposed: the stroke follows the form, and the skin is mixed from red, olive, and gray, never peach plastic. Brushwork like Sargent or Freud.
 - A tense or breaking moment: darker surrounding paint and a tighter pose. The locked face stays intact. Do not shift, split, or cubist-rebuild the features.
 Earth colors plus one note. Canvas weave in the thin passages, thicker paint in the light. A corner may stay unfinished.
+
+19. Circle caricature. One person inside a single clean circle on a plain white field. Thick even black outline, flat color, almost no shading. The face is a caricature with a few locked features: hair shape, beard or clean chin, brow, and a simple eye and mouth that stay the same every time. The body is fully readable inside the circle, caught in one exaggerated pose. Clothes are flat blocks of the same colors every time. The inside of the circle has a simple ground or a flat backdrop, not a detailed room. One circle only. Do not draw a row, a grid, captions, or labels.
 
 After both the character style and the transcript are known, output every image in that one reply, from the first line through the transcript's last line. Do not split the result. Do not stop at 30. Do not write "Part 1 of N" or "type next".
 Output only the image blocks. No commentary.
