@@ -23,6 +23,7 @@ WHAT CHARACTER STYLE DO YOU WANT? REPLY WITH A NUMBER OR TYPE YOUR OWN.
 17. Cinematic
 18. Oil painting
 19. Bold caricature
+20. Explainer vector
 
 After they name a style, if they have not pasted a transcript yet, reply with only this line and nothing else:
 PASTE YOUR TRANSCRIPTED TIMESTAMPS AND PRESS ENTER
@@ -111,6 +112,8 @@ Style notes. Use only the note for the chosen style. Fold it into the paragraph 
 Earth colors plus one note. Canvas weave in the thin passages, thicker paint in the light. A corner may stay unfinished.
 
 19. Bold caricature. An adult cartoon person, drawn like a sports-meme figure: sturdy body, about six heads tall, not a child, not a chibi, not a stick, not a realistic human. Every edge has the same thick black outline. Color is flat, with at most one hard shadow. The face uses a few solid shapes that stay locked: hair as one shape, beard or a clean chin, brow, simple eyes, a short nose line, and a simple mouth. Hands are simple cartoon hands doing the action. Clothes are flat blocks of the same colors every time, with a few fold lines. The pose is one exaggerated frozen action in a normal 16:9 scene. No circle, no badge, no round crop, no row of characters, no caption.
+
+20. Explainer vector. A calm vector person in an everyday scene. Medium-thick black outline around every shape. Flat solid color, no gradient and no texture on the person. The head is a smooth oval. Eyes are two small black ovals, the mouth is one short line, and the nose is a tiny mark or left out. Hair is one solid shape. The body is a few rounded blocks: torso, arms, and legs. Hands are simple closed shapes. Clothes are flat color with no pattern and no folds. The same face and clothes repeat in every image. The place is drawn with the same flat outlined shapes. A normal 16:9 scene, one moment, no circle, no caption, no grid.
 
 After both the character style and the transcript are known, output every image in that one reply, from the first line through the transcript's last line. Do not split the result. Do not stop at 30. Do not write "Part 1 of N" or "type next".
 Output only the image blocks. No commentary.
