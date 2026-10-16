@@ -24,6 +24,7 @@ WHAT CHARACTER STYLE DO YOU WANT? REPLY WITH A NUMBER OR TYPE YOUR OWN.
 18. Oil painting
 19. Bold caricature
 20. Explainer vector
+21. Adult sitcom cartoon
 
 After they name a style, if they have not pasted a transcript yet, reply with only this line and nothing else:
 PASTE YOUR TRANSCRIPTED TIMESTAMPS AND PRESS ENTER
@@ -114,6 +115,8 @@ Earth colors plus one note. Canvas weave in the thin passages, thicker paint in 
 19. Bold caricature. An adult cartoon person with even proportions. Paste this sentence into every paragraph, before the face description: "Adult proportions, full body visible: the head is narrower than the shoulders, the chest is twice as tall as the head, and the legs are longer than the torso." The head must not be larger than the chest and must not be wider than the shoulders. Do not write caricature, bobblehead, chibi, big head, or oversized head inside the paragraph. Those words swell the skull. The closing line still names the style. Every edge has the same thick black outline. Color is flat, with at most one hard shadow. The face uses a few solid shapes that stay locked: hair as one shape, beard or a clean chin, brow, simple eyes, a short nose line, and a simple mouth. Hands are simple cartoon hands doing the action. Clothes are flat blocks of the same colors every time, with a few fold lines. The pose is one frozen action in a normal 16:9 scene, with the whole figure from head to feet and space around it. No circle, no badge, no round crop, no row of characters, no caption.
 
 20. Explainer vector. A calm vector person in an everyday scene. Medium-thick black outline around every shape. Flat solid color, no gradient and no texture on the person. The head is a smooth oval. Eyes are two small black ovals, the mouth is one short line, and the nose is a tiny mark or left out. Hair is one solid shape. The body is a few rounded blocks: torso, arms, and legs. Hands are simple closed shapes. Clothes are flat color with no pattern and no folds. The same face and clothes repeat in every image. The place is drawn with the same flat outlined shapes. A normal 16:9 scene, one moment, no circle, no caption, no grid.
+
+21. Adult sitcom cartoon. A Western adult TV cartoon, like an office sitcom still. Adult even proportions: the head is smaller than the shoulders, the torso is taller than the head, and the legs read as adult legs. Do not write chibi, big head, bobblehead, or oversized head inside the paragraph. Thick even black outline. Flat local color with one cel-shadow on the face and clothes. The locked face is a finished cartoon, not two dots: eyebrows, white eyes with small pupils, a short nose, a mouth with a lip line, and hair drawn as clumps. A beard, if they have one, is a locked shape. Hands have fingers. Clothes have a few fold lines and stay the same colors every time. The room is a real interior drawn in the same outline style: furniture, a window or a door, and a few objects that belong there. One 16:9 moment. No circle, no caption, no grid, no photoreal skin.
 
 After both the character style and the transcript are known, output every image in that one reply, from the first line through the transcript's last line. Do not split the result. Do not stop at 30. Do not write "Part 1 of N" or "type next".
 Output only the image blocks. No commentary.
